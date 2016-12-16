@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2015\Projects\ResultsApp\ResultsApp\bin\Debug\ResultsApp.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\ResultsApp\ResultsApp\bin\Debug\ResultsApp.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ResultsApp\ResultsApp\bin\Debug\ResultsApp.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ResultsApp\ResultsApp\obj\Debug\ResultsApp.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\ResultsApp\ResultsApp\obj\Debug\ResultsApp.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ResultsApp\ResultsApp\obj\Debug\ResultsApp.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ResultsApp\ResultsApp\obj\Debug\ResultsApp.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\ResultsApp\ResultsApp\obj\Debug\ResultsApp.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ResultsApp\ResultsApp\obj\Debug\ResultsApp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ResultsApp\ResultsApp\obj\Debug\ResultsApp.AddStudentForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ResultsApp\ResultsApp\obj\Debug\ResultsApp.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ResultsApp\ResultsApp\obj\Debug\ResultsApp.SpecificSearch.resources

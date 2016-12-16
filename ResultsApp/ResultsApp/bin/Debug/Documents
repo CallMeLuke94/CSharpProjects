@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Students>
+  <info>
+    <RegNo>1</RegNo>
+    <Name>Alice</Name>
+    <Class>9</Class>
+    <Group>B</Group>
+    <Subject1>102</Subject1>
+    <Subject2>91</Subject2>
+    <Subject3>145</Subject3>
+  </info>
+  <info>
+    <RegNo>2</RegNo>
+    <Name>Bill</Name>
+    <Class>9</Class>
+    <Group>C</Group>
+    <Subject1>100</Subject1>
+    <Subject2>77</Subject2>
+    <Subject3>105</Subject3>
+  </info>
+  <info>
+    <RegNo>3</RegNo>
+    <Name>Charlie</Name>
+    <Class>9</Class>
+    <Group>B</Group>
+    <Subject1>0</Subject1>
+    <Subject2>1</Subject2>
+    <Subject3>2</Subject3>
+  </info>
+  <info>
+    <RegNo>4</RegNo>
+    <Name>Dan</Name>
+    <Class>9</Class>
+    <Group>C</Group>
+    <Subject1>40</Subject1>
+    <Subject2>55</Subject2>
+    <Subject3>120</Subject3>
+  </info>
+</Students>
